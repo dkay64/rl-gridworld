@@ -1,0 +1,12 @@
+Episode 100/1000, avg return (last 100): 0.926
+Episode 200/1000, avg return (last 100): 0.944
+Episode 300/1000, avg return (last 100): 0.942
+Episode 400/1000, avg return (last 100): 0.944
+Episode 500/1000, avg return (last 100): 0.943
+Episode 600/1000, avg return (last 100): 0.944
+Episode 700/1000, avg return (last 100): 0.943
+Episode 800/1000, avg return (last 100): 0.945
+Episode 900/1000, avg return (last 100): 0.944
+Episode 1000/1000, avg return (last 100): 0.944
+Greedy trajectory: [0, 4, 5, 6, 7, 11, 15]
+Total reward: 0.95
