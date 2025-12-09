@@ -5,8 +5,8 @@ This project trains a simple tabular Q-learning agent on a 4x4 GridWorld. The ag
 ## Setup
 
 ```bash
-conda create -n cuda_env python=3.11
-conda activate cuda_env
+conda create -n gridworld_env python=3.11
+conda activate gridworld_env
 pip install -r requirements.txt
 ```
 
