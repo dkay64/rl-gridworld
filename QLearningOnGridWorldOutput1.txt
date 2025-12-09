@@ -1,0 +1,10 @@
+Episode 100/1000, avg return (last 100): 0.928
+Episode 200/1000, avg return (last 100): 0.943
+Episode 300/1000, avg return (last 100): 0.945
+Episode 400/1000, avg return (last 100): 0.945
+Episode 500/1000, avg return (last 100): 0.943
+Episode 600/1000, avg return (last 100): 0.942
+Episode 700/1000, avg return (last 100): 0.945
+Episode 800/1000, avg return (last 100): 0.944
+Episode 900/1000, avg return (last 100): 0.944
+Episode 1000/1000, avg return (last 100): 0.945
